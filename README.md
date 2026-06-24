@@ -1,4 +1,4 @@
-Instructions:
+Instructions:  
 1 - click the green "code" button
 2 - click "download ZIP"
 3 - extract the folder
